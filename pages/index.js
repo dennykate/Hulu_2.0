@@ -1,7 +1,7 @@
 import Head from "next/head";
-import Header from "./components/Header";
-import Items from "./components/Items";
-import Nav from "./components/Nav";
+import Header from "../components/Header";
+import Items from "../components/Items";
+import Nav from "../components/Nav";
 
 export default function Home() {
   return (

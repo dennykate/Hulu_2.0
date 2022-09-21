@@ -1,5 +1,5 @@
 import React from "react";
-import request from "../../Utils/request";
+import request from "../Utils/request";
 
 const Nav = () => {
   return (
