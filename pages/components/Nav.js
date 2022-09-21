@@ -9,6 +9,7 @@ const Nav = () => {
           <h2
             className="text-xl transition duration-100 hover:scale-125 hover:text-white 
          cursor-pointer"
+            key={key}
           >
             {title}
           </h2>
